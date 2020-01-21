@@ -12,7 +12,7 @@ In this transit from information to knowledge it is not only about writing and r
 
 We propose for our assignment to take place in the Fabric Station, since rules and regulatons can metaphorically be considered the "fabric", the basic structure, of our institutions. We will speculate with this metaphor, and experiment widely with the material and discover possibilities via station skills such as dyeing and draping.
 
-For information on the assignement; assessment criteria and schedule visit the official courses' website.
+_For information on the assignement; assessment criteria and schedule visit the official courses' website._
 
 # Skin Layers
 
