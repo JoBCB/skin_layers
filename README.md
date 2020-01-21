@@ -3,20 +3,23 @@
 __By Joana Chicau (Practice)__
 
 _Course Theme: Lapses & Loopholes_
+
 Systems, as institutions and its rules are not "written in stone". They are written by groups or individuals, possibly along with machines, and they can change over time, they can be rewritten, we have the power to change them. This workshop is an invitation to do exactly that, to re-write, to appropriate the rules of the school together with others.
+
 In this transit from information to knowledge it is not only about writing and re-writing, but also enacting and performing such rules. As we know, some of this rules are implicit, and others are explicit — in both cases their effects are real. And in this learning process it is not enough to describe other possible worlds, but it is necessary to bring them closer by embodying them.
+
 We propose for our assignment to take place in the Fabric Station, since rules and regulatons can metaphorically be considered the "fabric", the basic structure, of our institutions. We will speculate with this metaphor, and experiment widely with the material and discover possibilities via station skills such as dyeing and draping.
 
 __Teaching together with the course tutors:__ Dagmar Baumann (Practice); Santiago Pinyol (Theory); jointly with Fabric Station.
 For information on the assignement; assessment criteria and schedule visit the official courses' website.
 
-#Skin Layers
+# Skin Layers
 
 > "In the electric age, we wear all mankind as our skin" [Marshall McLuhan](https://monoskop.org/images/1/1c/De_Kerckhove_Derrick_The_Skin_of_Culture.pdf)
 
 
 
-_further references_
+_Further references_
 
 * [fashion research companies and initiatives in Holland](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/companies-and-initiatives)
 
