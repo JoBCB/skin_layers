@@ -1,8 +1,9 @@
 ### Resource materials for Autonomous Practices [P1] — WdKA, Rotterdam 2020
 
 __By Joana Chicau (Practice)__
+_Teaching together with the course tutors:_ Dagmar Baumann (Practice); Santiago Pinyol (Theory); jointly with Fabric Station.
 
-_Course Theme: Lapses & Loopholes_
+__Course Theme: Lapses & Loopholes__
 
 Systems, as institutions and its rules are not "written in stone". They are written by groups or individuals, possibly along with machines, and they can change over time, they can be rewritten, we have the power to change them. This workshop is an invitation to do exactly that, to re-write, to appropriate the rules of the school together with others.
 
@@ -10,7 +11,6 @@ In this transit from information to knowledge it is not only about writing and r
 
 We propose for our assignment to take place in the Fabric Station, since rules and regulatons can metaphorically be considered the "fabric", the basic structure, of our institutions. We will speculate with this metaphor, and experiment widely with the material and discover possibilities via station skills such as dyeing and draping.
 
-__Teaching together with the course tutors:__ Dagmar Baumann (Practice); Santiago Pinyol (Theory); jointly with Fabric Station.
 For information on the assignement; assessment criteria and schedule visit the official courses' website.
 
 # Skin Layers
