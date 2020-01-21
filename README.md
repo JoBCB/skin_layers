@@ -25,7 +25,7 @@ _Further references_
 ⋅⋅⋅[Fashion research companies and initiatives in Holland](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/companies-and-initiatives)
 
 body data and wearables<br/>
-⋅⋅⋅[Fashion Data](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/fashion-data)
+⋅⋅⋅[Fashion Data](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/fashion-data) <br/>
 ⋅⋅⋅[Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
 ⋅⋅⋅[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 ⋅⋅⋅[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
