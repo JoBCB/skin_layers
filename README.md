@@ -22,7 +22,7 @@ _For information on the assignement; assessment criteria and schedule visit the 
 
 _Further references_
 
-⋅⋅⋅[fashion research companies and initiatives in Holland](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/companies-and-initiatives)
+⋅⋅⋅[Fashion research companies and initiatives in Holland](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/companies-and-initiatives)
 
 body data and wearables<br/>
 ⋅⋅⋅[Fashion Data](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/fashion-data)
