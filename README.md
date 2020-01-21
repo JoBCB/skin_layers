@@ -1,6 +1,7 @@
 ### Resource materials for Autonomous Practices [P1] — WdKA, Rotterdam 2020
 
-__By Joana Chicau (Practice)__
+__by Joana Chicau (Practice)__
+
 _Teaching together with the course tutors:_ Dagmar Baumann (Practice); Santiago Pinyol (Theory); jointly with Fabric Station.
 
 __Course Theme: Lapses & Loopholes__
