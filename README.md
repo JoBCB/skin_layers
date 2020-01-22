@@ -35,9 +35,14 @@ _For information on the assignement; assessment criteria and schedule visit the 
 _Further references_
 
 ⋅⋅⋅[Fashion research companies and initiatives in Holland](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/companies-and-initiatives)
+⋅⋅⋅[Material Showcase of Ars Electronica Center](https://ars.electronica.art/center/en/materialshowcase/)
+
+⋅⋅⋅[Alternative Limb Project](http://www.thealternativelimbproject.com/)
 
 body data and wearables<br/>
 ⋅⋅⋅[Fashion Data](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/fashion-data) <br/>
+⋅⋅⋅[From Self-Design to Algorithmic-Design, From Generation Y to Generation Z](https://www.e-flux.com/journal/98/256669/from-self-design-to-algorithmic-design/)
+⋅⋅⋅[The Future Looms: Weaving Women and Cybernetics ](https://monoskop.org/images/1/13/Plant_Sadie_1995_The_Future_Looms_Weaving_Women_and_Cybernetics.pdf)
 ⋅⋅⋅[Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
 ⋅⋅⋅[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 ⋅⋅⋅[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
