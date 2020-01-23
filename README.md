@@ -32,12 +32,13 @@ _For information on the assignement; assessment criteria and schedule visit the 
 
 > "Choreographies valorize failure";
 
+> "Choreography beyond physical bodies – in between regulation and permeability." [Sandra Noeth, DRAMATURGY – MOBILE OF IDEAS](http://www.annaliska.com/SCORES/SCORES_No_0.pdf)
+
 _Further references_
 
-⋅⋅⋅[Fashion research companies and initiatives in Holland](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/companies-and-initiatives)
-⋅⋅⋅[Material Showcase of Ars Electronica Center](https://ars.electronica.art/center/en/materialshowcase/)
-
-⋅⋅⋅[Alternative Limb Project](http://www.thealternativelimbproject.com/)
+⋅⋅⋅[Fashion research companies and initiatives in Holland](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/companies-and-initiatives)  <br/>
+⋅⋅⋅[Material Showcase of Ars Electronica Center](https://ars.electronica.art/center/en/materialshowcase/)  <br/>
+⋅⋅⋅[Alternative Limb Project](http://www.thealternativelimbproject.com/)  <br/>
 
 body data and wearables<br/>
 ⋅⋅⋅[Fashion Data](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/fashion-data) <br/>
