@@ -20,19 +20,6 @@ _For information on the assignement; assessment criteria and schedule visit the 
  
 > Let ’s imagine the skin of – choreographic  – movement, even without organs and neverthel- ess sensual: as a trace of the body, as a trembling  dividing line between inside and outside – of space  and  body  and  writing  –  and  as  its  interpenetrati- on,  as  a  vibrating  membrane,  as  a  hymen  between   guration  and  de guration  in  the  nowhere  of  the  very  rst step: penetrable for various surfaces, dis- ciplines, arts and media. Imagine how the skin of  movement is folded, unfolded and stroked by gaze  and  breath. [Scores nº0](http://www.annaliska.com/SCORES/SCORES_No_0.pdf)
 
-> "Choreography is the term that presides over a class of ideas: an idea is perhaps in this case a thought or suggestion as to a possible course of action. " at [Choreographic Objects by William Forsythe](http://www.williamforsythe.com/essay.html); more quotes from the same author:
-
-> "Choreographies model uncertain outcomes";
-
-> "Choreographies traject ideas into the action of perception";
-
-> "Choreographies may also refuse to act";
-
-> "Choreographies suspend certainty";
-
-> "Choreographies valorize failure";
-
-> "Choreography beyond physical bodies – in between regulation and permeability." [Sandra Noeth, DRAMATURGY – MOBILE OF IDEAS](http://www.annaliska.com/SCORES/SCORES_No_0.pdf)
 
 _Further references_
 
