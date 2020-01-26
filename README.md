@@ -42,7 +42,7 @@ _Further Reading:_
 
 - - -
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Noh_mask02.jpg" width="200"><img src="https://media.newyorker.com/photos/5909733ec14b3c606c108363/master/w_2560%2Cc_limit/091116_r19011_p646.jpg" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Noh_mask02.jpg" width="200"> <img src="https://media.newyorker.com/photos/5909733ec14b3c606c108363/master/w_2560%2Cc_limit/091116_r19011_p646.jpg" width="390">
 
 _Image 01:_ Noh masks signify the characters' gender, age, and social ranking, and by wearing masks the actors may portray youngsters, old men, female, or nonhuman (divine, demonic, or animal) characters. 
 
