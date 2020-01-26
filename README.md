@@ -33,7 +33,7 @@ _Further Reading:_
 
 - - - 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Dance_Mask_%28Tak%C3%BC%29%2C_20th_century%2C_61.34.2.jpg" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Dance_Mask_%28Tak%C3%BC%29%2C_20th_century%2C_61.34.2.jpg" width="300">
 
 > Dance Mask (Takü), 20th century, Brooklyn Museum; These full-body masks are worn for the mourning, or ónyo ("weeping"), ceremony, a multi-day ritual held approximately a year after an individual's death. [Source..](https://www.brooklynmuseum.org/opencollection/objects/78556)
 
@@ -52,8 +52,13 @@ _Image:_ Nick Cave – Soundsuit, 2011, mixed media [See more works here.](https
 
 > "I was inside a suit, you couldn’t tell if I was a woman or man; if I was black, red, green or orange; from Haiti or South Africa. I was no longer Nick. I was a shaman of sorts."
 
+<img src="https://www.studio-orta.com/files/image_419_thumbnail_en.jpg" width="400">
 
-<img src="http://www.zachblas.info/wp-content/uploads/2016/03/muac-exhibition-3.jpg" width="400">
+> "The multi-functional clothes can be transformed according to an individual's immendiate needs: a mobile sleeping back that turns into an anorak and transport bag, or a cacoon that transforms into a tent."
+
+<img src="http://www.zachblas.info/wp-content/uploads/2016/03/muac-exhibition-3.jpg" width="600">
+
+_Image:_ Lucy Orta — The unit, 1996.
 
 > Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques.[Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
 
@@ -61,7 +66,7 @@ _Image:_ Nick Cave – Soundsuit, 2011, mixed media [See more works here.](https
 
 - - -
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadAnthropometry.JPG" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadAnthropometry.JPG" width="600">
 
 > [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry)refers to the measurement of the human individual. Today, anthropometry plays an important role in industrial design, clothing design, ergonomics and architecture where statistical data about the distribution of body dimensions in the population are used to optimize products.
 
@@ -89,6 +94,7 @@ _Further on Bio Technology / Wearables / Developement of 'Smart' Materials_
 ⋅⋅⋅[Fashion Data](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/fashion-data) <br/>
 ⋅⋅⋅[From Self-Design to Algorithmic-Design, From Generation Y to Generation Z](https://www.e-flux.com/journal/98/256669/from-self-design-to-algorithmic-design/)
 ⋅⋅⋅[Various Examples of Wearable Technology](https://www.dezeen.com/tag/wearable-technology/)
+⋅⋅⋅[METABODY](https://metabody.eu/)
 ⋅⋅⋅[Black panther shuri's lab](https://www.youtube.com/watch?v=sZ9nxj54P_s)
 
 
