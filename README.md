@@ -14,14 +14,18 @@ We propose for our assignment to take place in the Fabric Station, since rules a
 
 _For information on the assignement; assessment criteria and schedule visit the official courses' website._
 
+
 # Skin Layers
  
 > Let ’s imagine the skin of – choreographic  – movement, even without organs and nevertheless sensual: as a trace of the body, as a trembling  dividing line between inside and outside – of space  and  body  and  writing  –  and  as  its  interpenetrati- on,  as  a  vibrating  membrane,  as  a  hymen  between   guration  and  de guration  in  the  nowhere  of  the  very  rst step: penetrable for various surfaces, disciplines, arts and media. Imagine how the skin of  movement is folded, unfolded and stroked by gaze  and  breath. [Scores nº0](http://www.annaliska.com/SCORES/SCORES_No_0.pdf)
 
-### Body Data & Identitiy Politics
+
+### Introduction
 
 
-> “A workshop, art, trade, product of art, structure, fabric. The framework underlying a structure." [Source](https://en.wiktionary.org/wiki/fabric). [See also: textile — originating from the word “texere” which means “to weave”. ](https://en.wiktionary.org/wiki/textile#Etymology)
+> “A workshop, art, trade, product of art, structure, fabric. The framework underlying a structure." [Source](https://en.wiktionary.org/wiki/fabric). 
+
+> See also: [textile](https://en.wiktionary.org/wiki/textile#Etymology) — originating from the word “texere” which means “to weave”. 
     
 _Further Reading:_
 
@@ -31,22 +35,21 @@ _Further Reading:_
 
 ⋅⋅⋅[The Future Looms: Weaving Women and Cybernetics ](https://monoskop.org/images/1/13/Plant_Sadie_1995_The_Future_Looms_Weaving_Women_and_Cybernetics.pdf)
 
-- - - 
+
+### Body Data & Identitiy Politics
+
+> "In the electric age, we wear all mankind as our skin" [Marshall McLuhan](https://monoskop.org/images/1/1c/De_Kerckhove_Derrick_The_Skin_of_Culture.pdf)
+
+- - -
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Dance_Mask_%28Tak%C3%BC%29%2C_20th_century%2C_61.34.2.jpg" width="300">
 
-> Dance Mask (Takü), 20th century, Brooklyn Museum; These full-body masks are worn for the mourning, or ónyo ("weeping"), ceremony, a multi-day ritual held approximately a year after an individual's death. [Source..](https://www.brooklynmuseum.org/opencollection/objects/78556)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Masque-no-p1000705.jpg" width="200">
+<img src="https://media.newyorker.com/photos/5909733ec14b3c606c108363/master/w_2560%2Cc_limit/091116_r19011_p646.jpg" width="400"><img src="https://publicdelivery.org/wp-content/uploads/2019/08/Nick-Cave-Soundsuit-2011-mixed-media-86-x-48-x-39-inches-800x1067@2x.jpg?ezimgfmt=ng:webp/ngcb7" width="200">
 
-> Noh masks signify the characters' gender, age, and social ranking, and by wearing masks the actors may portray youngsters, old men, female, or nonhuman (divine, demonic, or animal) characters. 
+_Image 01:_ Noh masks signify the characters' gender, age, and social ranking, and by wearing masks the actors may portray youngsters, old men, female, or nonhuman (divine, demonic, or animal) characters. 
 
-<img src="https://media.newyorker.com/photos/5909733ec14b3c606c108363/master/w_2560%2Cc_limit/091116_r19011_p646.jpg" width="400">
-
-> The “blank visage” of the mask, Dickerman writes, “is both deracinated and classless, just as the Bauhaus accoutrements of modern life are stripped of cultural traces. [Bauhaus Rules — The making of a modern aesthetic.](https://www.newyorker.com/magazine/2009/11/16/bauhaus-rules)
-
-
-<img src="https://publicdelivery.org/wp-content/uploads/2019/08/Nick-Cave-Soundsuit-2011-mixed-media-86-x-48-x-39-inches-800x1067@2x.jpg?ezimgfmt=ng:webp/ngcb7" width="400">
+_Image 02:_ The “blank visage” of the mask, Dickerman writes, “is both deracinated and classless, just as the Bauhaus accoutrements of modern life are stripped of cultural traces. [Bauhaus Rules — The making of a modern aesthetic.](https://www.newyorker.com/magazine/2009/11/16/bauhaus-rules)
 
 _Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/)
 
@@ -78,8 +81,6 @@ _Image:_ Template, Humanscale 7b: Seated at Work Selector, 1981
 
 > See also [history of standard clothing sizes](https://en.wikipedia.org/wiki/Clothing_sizes)
 
-
-> "In the electric age, we wear all mankind as our skin" [Marshall McLuhan](https://monoskop.org/images/1/1c/De_Kerckhove_Derrick_The_Skin_of_Culture.pdf)
 
 - - -
 
