@@ -46,7 +46,7 @@ _Further Reading:_
 
 > [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry) refers to the measurement of the human individual. Today, anthropometry plays an important role in industrial design, clothing design, ergonomics and architecture where statistical data about the distribution of body dimensions in the population are used to optimize products.
 
- <img src="https://images.collection.cooperhewitt.org/84985_c578795c9e2d950c_b.jpg" width="400">
+ <img src="https://images.collection.cooperhewitt.org/84985_c578795c9e2d950c_b.jpg" width="600">
 
 _Image:_ Template, Humanscale 7b: Seated at Work Selector, 1981 
 
@@ -68,7 +68,7 @@ _Image 02:_ The “blank visage” of the mask, Dickerman writes, “is both der
 
 _Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/)
 
-<img src="https://www.studio-orta.com/files/image_417_thumbnail_en.jpg" width="650">
+<img src="https://www.studio-orta.com/files/image_417_thumbnail_en.jpg" width="620">
 
 > "The multi-functional clothes can be transformed according to an individual's immendiate needs: a mobile sleeping back that turns into an anorak and transport bag, or a cacoon that transforms into a tent."
 
