@@ -92,10 +92,10 @@ _Further on Bio Technology / Wearables / Developement of 'Smart' Materials_
 
 ⋅⋅⋅[Material Showcase of Ars Electronica Center](https://ars.electronica.art/center/en/materialshowcase/)  <br/>
 ⋅⋅⋅[Fashion Data](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/fashion-data) <br/>
-⋅⋅⋅[From Self-Design to Algorithmic-Design, From Generation Y to Generation Z](https://www.e-flux.com/journal/98/256669/from-self-design-to-algorithmic-design/)
-⋅⋅⋅[Various Examples of Wearable Technology](https://www.dezeen.com/tag/wearable-technology/)
-⋅⋅⋅[METABODY](https://metabody.eu/)
-⋅⋅⋅[Black panther shuri's lab](https://www.youtube.com/watch?v=sZ9nxj54P_s)
+⋅⋅⋅[From Self-Design to Algorithmic-Design, From Generation Y to Generation Z](https://www.e-flux.com/journal/98/256669/from-self-design-to-algorithmic-design/)   <br/>
+⋅⋅⋅[Various Examples of Wearable Technology](https://www.dezeen.com/tag/wearable-technology/)   <br/>
+⋅⋅⋅[METABODY](https://metabody.eu/)   <br/>
+⋅⋅⋅[Black panther shuri's lab](https://www.youtube.com/watch?v=sZ9nxj54P_s)   <br/>
 
 
 - - -
