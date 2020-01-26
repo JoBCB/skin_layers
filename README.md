@@ -48,7 +48,7 @@ _Further Reading:_
 
 <img src="https://publicdelivery.org/wp-content/uploads/2019/08/Nick-Cave-Soundsuit-2011-mixed-media-86-x-48-x-39-inches-800x1067@2x.jpg?ezimgfmt=ng:webp/ngcb7" width="400">
 
-_Image:_ Nick Cave – Soundsuit, 2011, mixed media [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/)
+_Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/)
 
 > "I was inside a suit, you couldn’t tell if I was a woman or man; if I was black, red, green or orange; from Haiti or South Africa. I was no longer Nick. I was a shaman of sorts."
 
@@ -60,13 +60,13 @@ _Image:_ Nick Cave – Soundsuit, 2011, mixed media [See more works here.](https
 
 _Image:_ Lucy Orta — The unit, 1996.
 
-> Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques.[Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
+> Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques. [Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
 
 [Further reading on masks.](https://en.wikipedia.org/wiki/Mask#Masks_in_performance)
 
 - - -
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadAnthropometry.JPG" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadAnthropometry.JPG" width="700">
 
 > [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry)refers to the measurement of the human individual. Today, anthropometry plays an important role in industrial design, clothing design, ergonomics and architecture where statistical data about the distribution of body dimensions in the population are used to optimize products.
 
