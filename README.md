@@ -42,7 +42,7 @@ _Further Reading:_
 
 - - -
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadAnthropometry.JPG" width="700">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadAnthropometry.JPG" width="800">
 
 > [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry) refers to the measurement of the human individual. Today, anthropometry plays an important role in industrial design, clothing design, ergonomics and architecture where statistical data about the distribution of body dimensions in the population are used to optimize products.
 
@@ -87,7 +87,7 @@ _Image:_ Lucy Orta — The unit, 1996.
 ⋅⋅⋅ [BioLogic Second Skin](http://tangible.media.mit.edu/project/biologic/) is growing living actuators and synthesizing responsive bio-skin in the era where bio is the new interface. We are imagining a world where actuators and sensors can be grown rather than manufactured, being derived from nature as opposed to engineered in factories.
 
 
-_Further on Bio Technology / Wearables / Developement of 'Smart' Materials_
+_Further on Bio Technology / Wearables / Developement of 'Smart' Materials:_
 
 ⋅⋅⋅[Material Showcase of Ars Electronica Center](https://ars.electronica.art/center/en/materialshowcase/)  <br/>
 ⋅⋅⋅[Fashion Data](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/fashion-data) <br/>
@@ -99,6 +99,6 @@ _Further on Bio Technology / Wearables / Developement of 'Smart' Materials_
 
 - - -
 
-_Resources in Holland_
+_Resources in Holland:_
 
 ⋅⋅⋅[Fashion research companies and initiatives in Holland](https://tijdelijkmodemuseum.hetnieuweinstituut.nl/en/companies-and-initiatives)  <br/>
