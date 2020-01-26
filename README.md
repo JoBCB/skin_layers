@@ -42,14 +42,13 @@ _Further Reading:_
 
 - - -
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Dance_Mask_%28Tak%C3%BC%29%2C_20th_century%2C_61.34.2.jpg" width="300">
-
-
-<img src="https://media.newyorker.com/photos/5909733ec14b3c606c108363/master/w_2560%2Cc_limit/091116_r19011_p646.jpg" width="400"><img src="https://publicdelivery.org/wp-content/uploads/2019/08/Nick-Cave-Soundsuit-2011-mixed-media-86-x-48-x-39-inches-800x1067@2x.jpg?ezimgfmt=ng:webp/ngcb7" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Noh_mask02.jpg" width="200"><img src="https://media.newyorker.com/photos/5909733ec14b3c606c108363/master/w_2560%2Cc_limit/091116_r19011_p646.jpg" width="400">
 
 _Image 01:_ Noh masks signify the characters' gender, age, and social ranking, and by wearing masks the actors may portray youngsters, old men, female, or nonhuman (divine, demonic, or animal) characters. 
 
 _Image 02:_ The “blank visage” of the mask, Dickerman writes, “is both deracinated and classless, just as the Bauhaus accoutrements of modern life are stripped of cultural traces. [Bauhaus Rules — The making of a modern aesthetic.](https://www.newyorker.com/magazine/2009/11/16/bauhaus-rules)
+
+<img src="https://publicdelivery.org/wp-content/uploads/2019/08/Nick-Cave-Soundsuit-2011-mixed-media-86-x-48-x-39-inches-800x1067@2x.jpg?ezimgfmt=ng:webp/ngcb7" width="200">
 
 _Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/)
 
