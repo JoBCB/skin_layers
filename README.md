@@ -42,32 +42,6 @@ _Further Reading:_
 
 - - -
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Noh_mask02.jpg" width="200"> <img src="https://media.newyorker.com/photos/5909733ec14b3c606c108363/master/w_2560%2Cc_limit/091116_r19011_p646.jpg" width="390">
-
-_Image 01:_ Noh masks signify the characters' gender, age, and social ranking, and by wearing masks the actors may portray youngsters, old men, female, or nonhuman (divine, demonic, or animal) characters. 
-
-_Image 02:_ The “blank visage” of the mask, Dickerman writes, “is both deracinated and classless, just as the Bauhaus accoutrements of modern life are stripped of cultural traces. [Bauhaus Rules — The making of a modern aesthetic.](https://www.newyorker.com/magazine/2009/11/16/bauhaus-rules)
-
-<img src="https://publicdelivery.org/wp-content/uploads/2019/08/Nick-Cave-Soundsuit-2011-mixed-media-86-x-48-x-39-inches-800x1067@2x.jpg?ezimgfmt=ng:webp/ngcb7" width="200">
-
-_Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/)
-
-> "I was inside a suit, you couldn’t tell if I was a woman or man; if I was black, red, green or orange; from Haiti or South Africa. I was no longer Nick. I was a shaman of sorts."
-
-<img src="https://www.studio-orta.com/files/image_419_thumbnail_en.jpg" width="400">
-
-> "The multi-functional clothes can be transformed according to an individual's immendiate needs: a mobile sleeping back that turns into an anorak and transport bag, or a cacoon that transforms into a tent."
-
-<img src="http://www.zachblas.info/wp-content/uploads/2016/03/muac-exhibition-3.jpg" width="600">
-
-_Image:_ Lucy Orta — The unit, 1996.
-
-> Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques. [Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
-
-[Further reading on masks.](https://en.wikipedia.org/wiki/Mask#Masks_in_performance)
-
-- - -
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadAnthropometry.JPG" width="700">
 
 > [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry)refers to the measurement of the human individual. Today, anthropometry plays an important role in industrial design, clothing design, ergonomics and architecture where statistical data about the distribution of body dimensions in the population are used to optimize products.
@@ -80,6 +54,31 @@ _Image:_ Template, Humanscale 7b: Seated at Work Selector, 1981
 
 > See also [history of standard clothing sizes](https://en.wikipedia.org/wiki/Clothing_sizes)
 
+- - -
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Noh_mask02.jpg" width="200"> <img src="https://media.newyorker.com/photos/5909733ec14b3c606c108363/master/w_2560%2Cc_limit/091116_r19011_p646.jpg" width="385">
+
+_Image 01:_ Noh masks signify the characters' gender, age, and social ranking, and by wearing masks the actors may portray youngsters, old men, female, or nonhuman (divine, demonic, or animal) characters. 
+
+_Image 02:_ The “blank visage” of the mask, Dickerman writes, “is both deracinated and classless, just as the Bauhaus accoutrements of modern life are stripped of cultural traces. [Bauhaus Rules — The making of a modern aesthetic.](https://www.newyorker.com/magazine/2009/11/16/bauhaus-rules)
+
+<img src="https://publicdelivery.org/wp-content/uploads/2019/08/Nick-Cave-Soundsuit-2011-mixed-media-86-x-48-x-39-inches-800x1067@2x.jpg?ezimgfmt=ng:webp/ngcb7" width="500">
+
+> "I was inside a suit, you couldn’t tell if I was a woman or man; if I was black, red, green or orange; from Haiti or South Africa. I was no longer Nick. I was a shaman of sorts."
+
+_Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/)
+
+<img src="https://www.studio-orta.com/files/image_419_thumbnail_en.jpg" width="500">
+
+> "The multi-functional clothes can be transformed according to an individual's immendiate needs: a mobile sleeping back that turns into an anorak and transport bag, or a cacoon that transforms into a tent."
+
+_Image:_ Lucy Orta — The unit, 1996.
+
+<img src="http://www.zachblas.info/wp-content/uploads/2016/03/muac-exhibition-3.jpg" width="600">
+
+> Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques. [Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
+
+[Further reading on masks.](https://en.wikipedia.org/wiki/Mask#Masks_in_performance)
 
 - - -
 
