@@ -79,7 +79,7 @@ _Image:_ Lucy Orta — The unit, 1996.
 > Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques. [Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
 
 
-<img src="http://adversarial.io/wp-content/uploads/2019/10/quinn.png" width="320"><img src="https://noma-studio.pl/wp-content/uploads/2018/11/022.jpg" width="320">
+<img src="http://adversarial.io/wp-content/uploads/2019/10/quinn.png" width="420"><img src="https://noma-studio.pl/wp-content/uploads/2018/11/022.jpg" width="320">
 
 _Image01:_ London based designer Richard Quinn, Fall/Winter 2019
 
