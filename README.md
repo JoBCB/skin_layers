@@ -17,7 +17,7 @@ _For information on the assignement; assessment criteria and schedule visit the 
 
 # Skin Layers
  
-> Let ’s imagine the skin of – choreographic  – movement, even without organs and nevertheless sensual: as a trace of the body, as a trembling  dividing line between inside and outside – of space  and  body  and  writing  –  and  as  its  interpenetrati- on,  as  a  vibrating  membrane,  as  a  hymen  between   guration  and  de guration  in  the  nowhere  of  the  very  rst step: penetrable for various surfaces, disciplines, arts and media. Imagine how the skin of  movement is folded, unfolded and stroked by gaze  and  breath. [Scores nº0](http://www.annaliska.com/SCORES/SCORES_No_0.pdf)
+> Let ’s imagine the skin of – choreographic  – movement, even without organs and nevertheless sensual: as a trace of the body, as a trembling  dividing line between inside and outside – of space  and  body  and  writing  –  and  as  its  interpenetration,  as  a  vibrating  membrane,  as  a  hymen  between   guration  and  de guration  in  the  nowhere  of  the  very  rst step: penetrable for various surfaces, disciplines, arts and media. Imagine how the skin of  movement is folded, unfolded and stroked by gaze  and  breath. [Scores nº0](http://www.annaliska.com/SCORES/SCORES_No_0.pdf)
 
 
 ### Introduction
