@@ -87,6 +87,10 @@ _Image02:_ anti-recognition mask by designer [collective NOMA](https://noma-stud
 
 [Further reading on masks.](https://en.wikipedia.org/wiki/Mask#Masks_in_performance)
 
+<img src="http://amysuowu.net/sites/default/files/Thunderclap-Plates_106.jpg" width="620">
+
+_Image:_ Thunderclap employs steganography to publicly redistribute the suppressed work of Chinese anarcho-feminist He-Yin Zhen (1886–1920) through the medium of clothing accessories. The work I made was designed to camouflage into the streets of Beijing by co-opting shanzhai fashion, the Chinese phenomenon that features nonsense English together with a QR code, as a covert system to publish sensitive knowledge that is designed for a Chinese context. [Continue reading..](http://amysuowu.net/content/thunderclap); [Watch video](https://vimeo.com/249856321)
+
 - - -
 
  <img src="https://trackr-media.tangiblemedia.org/publishedmedia/Projects/2015-bioLogic/Photo%20Gallery/4868?width=780" width="400">
