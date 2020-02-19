@@ -31,6 +31,8 @@ _Further Reading:_
 
 > The study of the history of clothing and textiles traces the development, use, and availability of clothing and textiles over human history. Clothing and textiles reflect the materials and technologies available in different civilizations at different times. The variety and distribution of clothing and textiles within a society reveal social customs and culture. [Continue reading..](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles)
 
+[Video: Weaving as Language: Q’ero Storytelling](https://vimeo.com/98382062)
+
 ⋅⋅⋅[Textiles in mythology and folklore](https://en.wikipedia.org/wiki/Textiles_in_mythology_and_folklore)
 
 
