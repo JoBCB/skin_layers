@@ -33,6 +33,11 @@ _Further Reading:_
 
 ⋅⋅⋅[Textiles in mythology and folklore](https://en.wikipedia.org/wiki/Textiles_in_mythology_and_folklore)
 
+_Image:_ Textiles: a mechanical Jacquard loom, three-quarter view with spectator, Engraving, Wellcome Collection, CC BY
+ <img src="https://blog.europeana.eu/wp-content/uploads/2019/11/9200579_nmsgmtd8.jpg" width="400">
+ 
+ [Watch film: The link between the Jacquard loom and computing](https://blog.scienceandindustrymuseum.org.uk/weaving-numbers-jacquard-loom-early-computing/)
+
 ⋅⋅⋅[The Future Looms: Weaving Women and Cybernetics ](https://monoskop.org/images/1/13/Plant_Sadie_1995_The_Future_Looms_Weaving_Women_and_Cybernetics.pdf)
 
 
