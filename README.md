@@ -66,7 +66,7 @@ _Image 02:_ The “blank visage” of the mask, Dickerman writes, “is both der
 
 > "I was inside a suit, you couldn’t tell if I was a woman or man; if I was black, red, green or orange; from Haiti or South Africa. I was no longer Nick. I was a shaman of sorts."
 
-_Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/)
+_Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/); and a [video: The World is my Skin](https://channel.louisiana.dk/video/nick-cave-world-my-skin).
 
 <img src="https://www.studio-orta.com/files/image_417_thumbnail_en.jpg" width="620">
 
@@ -83,7 +83,7 @@ _Image:_ Lucy Orta — The unit, 1996.
 
 _Image01:_ London based designer Richard Quinn, Fall/Winter 2019
 
-_Image02:_ anti-recognition mask by designer [collective NOMA](https://noma-studio.pl)
+_Image02:_ anti-recognition mask by designer collective [NOMA](https://noma-studio.pl)
 
 [Further reading on masks.](https://en.wikipedia.org/wiki/Mask#Masks_in_performance)
 
