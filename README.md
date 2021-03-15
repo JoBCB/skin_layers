@@ -82,13 +82,14 @@ _Image:_ Lygia Clark, Máscaras Sensoriais [Sensory Masks], 1967–68. Courtesy 
 
 _Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](https://publicdelivery.org/nick-cave-soundsuits/); and a [video: The World is my Skin](https://channel.louisiana.dk/video/nick-cave-world-my-skin).
 
-<img src="https://www.studio-orta.com/files/image_417_thumbnail_en.jpg" width="620">
 
-> "The multi-functional clothes can be transformed according to an individual's immendiate needs: a mobile sleeping back that turns into an anorak and transport bag, or a cacoon that transforms into a tent."
+> "The multi-functional clothes can be transformed according to an individual's immendiate needs: a mobile sleeping back that turns into an anorak and transport bag, or a cacoon that transforms into a tent."> 
+
+<img src="https://www.studio-orta.com/files/image/1/image_803_thumbnail_en.jpg" width="620">
 
 _Image:_ Lucy Orta — The unit, 1996.
 
-<img src="https://www.studio-orta.com/files/image/1/image_803_thumbnail_en.jpg" width="620">
+<img src="https://zachblas.info/wp-content/uploads/2016/03/muac-exhibition-3.jpg" width="620">
 
 > Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques. [Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
 
