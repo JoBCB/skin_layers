@@ -71,6 +71,11 @@ _Image 01:_ Noh masks signify the characters' gender, age, and social ranking, a
 
 _Image 02:_ The “blank visage” of the mask, Dickerman writes, “is both deracinated and classless, just as the Bauhaus accoutrements of modern life are stripped of cultural traces. [Bauhaus Rules — The making of a modern aesthetic.](https://www.newyorker.com/magazine/2009/11/16/bauhaus-rules)
 
+
+<img src="http://pelicanbomb.com/images/review/_medium/Clark.1967.Sensory-Mask.jpg" width="500">
+
+_Image:_ Lygia Clark, Máscaras Sensoriais [Sensory Masks], 1967–68. Courtesy the World of Lygia Clark, Rio de Janeiro.
+
 <img src="https://publicdelivery.org/wp-content/uploads/2019/08/Nick-Cave-Soundsuit-2011-mixed-media-86-x-48-x-39-inches-800x1067@2x.jpg?ezimgfmt=ng:webp/ngcb7" width="500">
 
 > "I was inside a suit, you couldn’t tell if I was a woman or man; if I was black, red, green or orange; from Haiti or South Africa. I was no longer Nick. I was a shaman of sorts."
@@ -83,7 +88,7 @@ _Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](http
 
 _Image:_ Lucy Orta — The unit, 1996.
 
-<img src="http://www.zachblas.info/wp-content/uploads/2016/03/muac-exhibition-3.jpg" width="620">
+<img src="https://www.studio-orta.com/files/image/1/image_803_thumbnail_en.jpg" width="620">
 
 > Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques. [Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
 
