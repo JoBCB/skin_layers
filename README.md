@@ -89,6 +89,10 @@ _Image:_ Nick Cave – Soundsuit, 2011, mixed media. [See more works here.](http
 
 _Image:_ Lucy Orta — The unit, 1996.
 
+<img src="https://www.dorabartilotti.com/wp-content/uploads/2022/12/Captura-de-pantalla-207.png" width="620">
+
+_Image:_ La has visto…? — Dora Bartilotti [More info here](https://www.dorabartilotti.com/la-has-visto/).
+
 <img src="https://zachblas.info/wp-content/uploads/2016/03/muac-exhibition-3.jpg" width="620">
 
 > Facial Weaponization Suite protests against biometric facial recognition–and the inequalities these technologies propagate–by making “collective masks” in workshops that are modeled from the aggregated facial data of participants, resulting in amorphous masks that cannot be detected as human faces by biometric facial recognition technologies. The masks are used for public interventions and performances. One mask, the Fag Face Mask, generated from the biometric facial data of many queer men’s faces, is a response to scientific studies that link determining sexual orientation through rapid facial recognition techniques. [Continue reading..](http://www.zachblas.info/works/facial-weaponization-suite/) 
